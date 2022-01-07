@@ -8,7 +8,7 @@
     border-radius: 6px;
 }
 
-/* front of card - the picture */
+/* front */
 .card .front {
     transform: rotateY(90deg);
     transition: all ease-in 0.2s;
@@ -19,7 +19,7 @@
     transition-delay: 0.2s;
 }
 
-/* back of card - cover */
+/* back*/
 .card .cover {
     transition: all ease-in 0.2s;
     transition-delay: 0.2s;
